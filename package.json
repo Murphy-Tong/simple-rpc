@@ -1,13 +1,6 @@
 {
   "name": "remote-invoke-vvv",
   "version": "1.0.0",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
-  "exports": {
-    "require": "./cjs/index.js",
-    "import": "./lib/index.js",
-    "default": "./lib/index.js"
-  },
   "directories": {
     "lib": "lib"
   },
